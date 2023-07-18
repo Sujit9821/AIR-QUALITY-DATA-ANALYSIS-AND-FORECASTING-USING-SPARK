@@ -1,0 +1,2 @@
+# AIR-QUALITY-DATA-ANALYSIS-AND-FORECASTING-USING-SPARK
+The "Air Quality Data Analysis and Forecasting using Spark" project aims to provide insights and predictions about air quality by leveraging the power of Apache Spark. This project focuses on analyzing large-scale air quality data sets and generating forecasts to aid in decision-making processes related to air pollution control and public health.
